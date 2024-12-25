@@ -11,7 +11,7 @@
             color: #333;
             margin: 0;
             padding: 0;
-            background-image: url('https://example.com/snow-background.jpg');
+            background-image: url('[https://example.com/snow-background.jpg](https://media.istockphoto.com/id/1355039197/vector/winter-landscape-with-snow-covered-trees.jpg?s=612x612&w=0&k=20&c=EAWlpYpwN3amAkjE5psAqGHUkra8t7X3MZuSmw6LzsE=)');
             background-size: cover;
         }
         .container {
